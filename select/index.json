@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Memories",
+  "base_artist": "RIIZE",
+  "createdAt": "2026-03-18T19:43:52.146308Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Burnin' Old Memories",
+      "artist": "Kathy Mattea",
+      "has_synced": false,
+      "path": "select/01_Burnin'_Old_Memories_Kathy_Mattea.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Just Came Home To Count The Memories",
+      "artist": "Gillian Welch feat. David Rawlings",
+      "has_synced": true,
+      "path": "select/02_I_Just_Came_Home_To_Count_The_Memories_Gillian_Welch_feat._David_Rawlings.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Just Came Home To Count The Memories",
+      "artist": "Gillian Welch",
+      "has_synced": true,
+      "path": "select/03_I_Just_Came_Home_To_Count_The_Memories_Gillian_Welch.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Making Memories Of Us",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/04_Making_Memories_Of_Us_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Making Memories Of Us (Radio Single Edit)",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/05_Making_Memories_Of_Us_(Radio_Single_Edit)_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Smokey Mountain Memories",
+      "artist": "Earl Thomas Conley",
+      "has_synced": false,
+      "path": "select/06_Smokey_Mountain_Memories_Earl_Thomas_Conley.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Memories (feat. Claire Ridgely) [Mixed]",
+      "artist": "Sabai",
+      "has_synced": true,
+      "path": "select/07_Memories_(feat._Claire_Ridgely)_[Mixed]_Sabai.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Memories",
+      "artist": "Sabai",
+      "has_synced": true,
+      "path": "select/08_Memories_Sabai.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Train Of Memories",
+      "artist": "Kathy Mattea",
+      "has_synced": false,
+      "path": "select/09_Train_Of_Memories_Kathy_Mattea.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Memories",
+      "artist": "Leonard Cohen",
+      "has_synced": true,
+      "path": "select/10_Memories_Leonard_Cohen.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Superfreaky Memories",
+      "artist": "Luna",
+      "has_synced": true,
+      "path": "select/11_Superfreaky_Memories_Luna.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Prophecies & Reversed Memories",
+      "artist": "múm",
+      "has_synced": true,
+      "path": "select/12_Prophecies_&_Reversed_Memories_múm.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Prophecies & Reversed Memories",
+      "artist": "Múm",
+      "has_synced": false,
+      "path": "select/13_Prophecies_&_Reversed_Memories_Múm.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Prophecies and Reversed Memories",
+      "artist": "múm",
+      "has_synced": true,
+      "path": "select/14_Prophecies_and_Reversed_Memories_múm.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Vivid Memories Turn to Fantasies",
+      "artist": "Neil Cicierega",
+      "has_synced": false,
+      "path": "select/15_Vivid_Memories_Turn_to_Fantasies_Neil_Cicierega.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Memories of Jacqueline 1906",
+      "artist": "The Olivia Tremor Control",
+      "has_synced": false,
+      "path": "select/16_Memories_of_Jacqueline_1906_The_Olivia_Tremor_Control.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Memories That You Call",
+      "artist": "ODESZA feat. Monsoonsiren",
+      "has_synced": true,
+      "path": "select/17_Memories_That_You_Call_ODESZA_feat._Monsoonsiren.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Memories",
+      "artist": "RIIZE",
+      "has_synced": false,
+      "path": "select/pl_01_Memories_RIIZE.txt"
+    }
+  ]
+}
